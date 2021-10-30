@@ -1,0 +1,12 @@
+- az3166
+  - DRIVER: https://www.st.com/en/development-tools/stsw-link009.html
+  - Main Azure: https://microsoft.github.io/azure-iot-developer-kit/docs/apis/arduino-language-reference/
+  - PINOUT: https://jeremylindsayni.wordpress.com/2017/11/11/using-the-mxchip-az3166-azure-devkit-with-arduino-coding-with-pin-names-instead-of-numbers/
+  - WIFI: https://microsoft.github.io/azure-iot-developer-kit/docs/apis/wifi/
+  - SENSORS (I2C): https://johnadali.com/2020/05/17/reading-sensors-on-the-mxchip-az3166-iot-device/
+    - hts221: https://microsoft.github.io/azure-iot-developer-kit/docs/apis/hts221/
+    - lps22hb: https://microsoft.github.io/azure-iot-developer-kit/docs/apis/lps22hb/
+  - MQTT: https://medium.com/@achildrenmile/iot-temperature-and-humidity-example-using-mxdevkit-and-custom-mqtt-broker-6d4916003a4d
+  - MQTT option 2: https://github.com/256dpi/arduino-mqtt
+  - DevI2C: https://github.com/arduino/ArduinoCore-primo/tree/master/libraries/CoreSensors/src/DevI2C_Arduino
+  - Expansion board: https://www.digikey.com/en/products/detail/sparkfun-electronics/BOB-13989/7229868
